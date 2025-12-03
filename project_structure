@@ -1,0 +1,24 @@
+Internship_Project_Sentinel/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── config/
+│   └── config.yaml
+│
+├── data/
+│   └── sample_log.txt
+│
+├── logs/
+│   └── app.log
+│
+├── src/
+│   ├── main.py
+│   ├── log_reader.py
+│   ├── anomaly_detector.py
+│   ├── slack_alert.py
+│   └── utils.py
+│
+└── tests/
+    └── slack_test.py
